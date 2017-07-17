@@ -1,7 +1,6 @@
 
 public class starbucksTan 
 {
-	public static Object value;
 	private String Name, Drink;
 	private int Ticket;
 	
